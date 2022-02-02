@@ -1,0 +1,21 @@
+li {
+    background-color: yellow;
+}
+
+.selected {
+    font-weight: bold;
+}
+
+#ghosting,
+#resize {
+    width: 200px;
+    height: 200px;
+}
+
+#ghosting {
+    background-color: #ddd;
+}
+
+#resize {
+    background-color: orange;
+}
